@@ -82,4 +82,4 @@ Para fixação de código:
 
 "Explique o erro lógico mais comum cometido por iniciantes ao manipular o DOM com JavaScript, utilizando um exemplo prático de código errado vs. código corrigido."
 
-## Link de acesso ao caderno base no NotebookLM: NotebookLM - Fundamentos do Web Design
+## Link de acesso ao caderno base no NotebookLM: [NotebookLM - Fundamentos do Web Design](https://notebook.google.com/notebook/893a920b-8930-4fde-9fe0-0fa4e2b15bd4)
